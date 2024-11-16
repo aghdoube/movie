@@ -1,0 +1,20 @@
+{
+  "name": "new-movie-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  },
+  "dependencies": {
+    "izitoast": "^1.4.0"
+  }
+}
